@@ -7,3 +7,13 @@
 >Doença causada por agentes não biológicos, como químicos (pesticidas, adtivos de alimentos, fármacos, industriais) e físicos (força mecânica, calor, luz, radiações, ruído).
 
 **Fonte:** Módulo de Princípios de Epidemiologia para o Controle de Enfermidades (MOPECE) (livro 2) 
+
+**Infecção Aguda**
+>Ocorre nas primeiras semanas da infecção pelo HIV, quando o vírus está sendo replicado intensivamente nos tecidos linfoides. O indivíduo, nesse período, torna-se altamente infectante. 
+
+**Fonte:** PROTOCOLO CLÍNICO E DIRETRIZES TERAPÊUTICAS PARA MANEJO DA INFECÇÃO PELO HIV EM ADULTOS.
+
+**Latência Clínica**
+>Na fase de latência clínica, o exame físico costuma ser normal, exceto pela linfadenopatia, que pode persistir após a infecção aguda. A presença de linfadenopatia generalizada persistente é frequente e seu diagnóstico diferencial inclui doenças linfoproliferativas e tuberculose ganglionar. 
+**Fonte:** PROTOCOLO CLÍNICO E DIRETRIZES TERAPÊUTICAS PARA MANEJO DA INFECÇÃO PELO HIV EM ADULTOS.
+
