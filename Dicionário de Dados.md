@@ -15,5 +15,6 @@
 
 **Latência Clínica**
 >Na fase de latência clínica, o exame físico costuma ser normal, exceto pela linfadenopatia, que pode persistir após a infecção aguda. A presença de linfadenopatia generalizada persistente é frequente e seu diagnóstico diferencial inclui doenças linfoproliferativas e tuberculose ganglionar. 
+
 **Fonte:** PROTOCOLO CLÍNICO E DIRETRIZES TERAPÊUTICAS PARA MANEJO DA INFECÇÃO PELO HIV EM ADULTOS.
 
