@@ -18,3 +18,8 @@
 
 **Fonte:** PROTOCOLO CLÍNICO E DIRETRIZES TERAPÊUTICAS PARA MANEJO DA INFECÇÃO PELO HIV EM ADULTOS.
 
+**Síndrome Retroviral Aguda (SRA)**
+>Os principais achados clínicos de SRA incluem febre, cefaleia, astenia, adenopatia, faringite, exantema e mialgia. A SRA pode cursar com febre alta, sudorese e linfadenomegalia, comprometendo principalmente as cadeias cervicais anterior e posterior, submandibular, occipital e axilar. Podem ocorrer, ainda, esplenomegalia, letargia, astenia, anorexia e depressão. Sintomas digestivos, como náuseas, vômitos, diarreia, perda de peso e úlceras orais podem estar presentes. 
+
+**Fonte:** PROTOCOLO CLÍNICO E DIRETRIZES TERAPÊUTICAS PARA MANEJO DA INFECÇÃO PELO HIV EM ADULTOS.
+
