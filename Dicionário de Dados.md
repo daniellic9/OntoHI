@@ -23,3 +23,8 @@
 
 **Fonte:** PROTOCOLO CLÍNICO E DIRETRIZES TERAPÊUTICAS PARA MANEJO DA INFECÇÃO PELO HIV EM ADULTOS.
 
+**Vinculação** 
+>Processo que consiste no acolhimento, orientação, direcionamento e encaminhamento de uma pessoa recém-diagnosticada com HIV ao serviço de saúde para que ela realize as primeiras consultas e exames o mais brevemente possível e desenvolva autonomia para o cuidado contínuo. O desfecho principal para considerar uma PVHIV vinculada é a realização da 1ª consulta no serviço de atenção para o qual foi encaminhada e, de preferência, seu início de tratamento o mais rápido possível. 
+
+**Fonte:** PROTOCOLO CLÍNICO E DIRETRIZES TERAPÊUTICAS PARA MANEJO DA INFECÇÃO PELO HIV EM ADULTOS.
+
