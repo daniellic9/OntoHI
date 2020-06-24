@@ -28,3 +28,7 @@
 
 **Fonte:** PROTOCOLO CLÍNICO E DIRETRIZES TERAPÊUTICAS PARA MANEJO DA INFECÇÃO PELO HIV EM ADULTOS.
 
+**Retenção**
+>Processo que consiste no acompanhamento clínico regular e contínuo da pessoa que vive com HIV já vinculada ao serviço de saúde, garantindo que ela compareça às consultas, faça exames regularmente e, se estiver em terapia, realize também o seguimento do seu tratamento, respeitando a sua autonomia. Um paciente retido no serviço é aquele que realiza exames e/ou retira os medicamentos antirretrovirais sistematicamente, sem faltar às consultas. 
+
+**Fonte:** PROTOCOLO CLÍNICO E DIRETRIZES TERAPÊUTICAS PARA MANEJO DA INFECÇÃO PELO HIV EM ADULTOS.
