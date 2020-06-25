@@ -32,3 +32,8 @@
 >Processo que consiste no acompanhamento clínico regular e contínuo da pessoa que vive com HIV já vinculada ao serviço de saúde, garantindo que ela compareça às consultas, faça exames regularmente e, se estiver em terapia, realize também o seguimento do seu tratamento, respeitando a sua autonomia. Um paciente retido no serviço é aquele que realiza exames e/ou retira os medicamentos antirretrovirais sistematicamente, sem faltar às consultas. 
 
 **Fonte:** PROTOCOLO CLÍNICO E DIRETRIZES TERAPÊUTICAS PARA MANEJO DA INFECÇÃO PELO HIV EM ADULTOS.
+
+**Adesão ao Tratamento**
+>Adesão ao tratamento: consiste na utilização ideal dos medicamentos ARV da forma mais próxima possível àquela prescrita pela equipe de saúde, respeitando as doses, horários e outras indicações. A adesão também é um processo colaborativo que facilita a aceitação e a integração de determinado esquema terapêutico no cotidiano das pessoas em tratamento, pressupondo sua participação nas decisões sobre a terapia. 
+
+**Fonte:** PROTOCOLO CLÍNICO E DIRETRIZES TERAPÊUTICAS PARA MANEJO DA INFECÇÃO PELO HIV EM ADULTOS.
