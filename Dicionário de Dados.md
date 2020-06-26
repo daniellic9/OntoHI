@@ -37,3 +37,9 @@
 >Consiste na utilização ideal dos medicamentos ARV da forma mais próxima possível àquela prescrita pela equipe de saúde, respeitando as doses, horários e outras indicações. A adesão também é um processo colaborativo que facilita a aceitação e a integração de determinado esquema terapêutico no cotidiano das pessoas em tratamento, pressupondo sua participação nas decisões sobre a terapia. 
 
 **Fonte:** PROTOCOLO CLÍNICO E DIRETRIZES TERAPÊUTICAS PARA MANEJO DA INFECÇÃO PELO HIV EM ADULTOS.
+
+**Supressão da Carga Viral**
+>Alcance de uma qualidade de vida comparável à das pessoas que não possuem o HIV. 
+
+**Fonte:** PROTOCOLO CLÍNICO E DIRETRIZES TERAPÊUTICAS PARA MANEJO DA INFECÇÃO PELO HIV EM ADULTOS.
+
