@@ -43,3 +43,8 @@
 
 **Fonte:** PROTOCOLO CLÍNICO E DIRETRIZES TERAPÊUTICAS PARA MANEJO DA INFECÇÃO PELO HIV EM ADULTOS.
 
+**Atenção à saúde**
+>Tudo que envolve o cuidado com a saúde do cidadão, incluindo atenção básica e especializa, ações e serviços de promoção, prevenção, tratamento e reabilitação.
+
+**Fonte:** https://saude.gov.br/sistema-unico-de-saude
+
