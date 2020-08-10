@@ -75,27 +75,70 @@
 
 **2.16 Modo de Transmissão**
 
-**2.17 Sinal**
+**2.17 Problema de Saúde**
 
-**2.18 Síndrome da Imunodeficiência Adquirida (AIDS)**
+**2.18 Sinal**
 
-**2.19 Síndrome Retroviral Aguda (SRA)**
+**2.19 Síndrome da Imunodeficiência Adquirida (AIDS)**
+
+**2.20 Síndrome Retroviral Aguda (SRA)**
 >>Os principais achados clínicos de SRA incluem febre, cefaleia, astenia, adenopatia, faringite, exantema e mialgia. A SRA pode cursar com febre alta, sudorese e linfadenomegalia, comprometendo principalmente as cadeias cervicais anterior e posterior, submandibular, occipital e axilar. Podem ocorrer, ainda, esplenomegalia, letargia, astenia, anorexia e depressão. Sintomas digestivos, como náuseas, vômitos, diarreia, perda de peso e úlceras orais podem estar presentes. 
 
 >>**Fonte:** PROTOCOLO CLÍNICO E DIRETRIZES TERAPÊUTICAS PARA MANEJO DA INFECÇÃO PELO HIV EM ADULTOS.
 
-**2.20 Sintoma**
+**2.21 Sintoma**
 
-**2.21 Tansmissão Direta**
+**2.22 Tansmissão Direta**
 
-**2.22 Transmissão Indireta**
+**2.23 Transmissão Indireta**
 
-**2.23 Tuberculose**
+**2.24 Tuberculose**
 
-**2.24 Vírus**
+**2.25 Vírus**
 
-**2.25 Vírus da Imunodeficiência Humana (HIV)**
+**2.26 Vírus da Imunodeficiência Humana (HIV)**
 
+### 3. Módulo Pessoa Vulnerável ao HIV
+
+**3.1 Acidente com Obejto Perfurocortante Contaminado**
+
+**3.2 Alta**
+
+**3.3 Ambiente Social**
+
+**3.4 Aspecto Legal**
+
+**3.5 Baixa**
+
+**3.6 Compartilhamento d Seringa Contaminada**
+
+**3.7 Comportamento**
+
+**3.8 Comportamento de Risco**
+
+**3.9 Extrínseco**
+
+**3.10 Fator**
+
+**3.11 Intrínseco**
+
+**3.12 Homem**
+
+**3.13 Mulher**
+
+**3.14 Pessoa**
+
+**3.15 Pessoa Vulnerável**
+
+**3.16 PVHIV**
+
+**3.17 Relação Sexual**
+
+**3.18 Relação Sexual Desprotegida**
+
+**3.19 Relação Sexual Protegida**
+
+**3.20 Vulnerabilidade**
 
 
 **Infecção Aguda**
@@ -107,9 +150,6 @@
 >Na fase de latência clínica, o exame físico costuma ser normal, exceto pela linfadenopatia, que pode persistir após a infecção aguda. A presença de linfadenopatia generalizada persistente é frequente e seu diagnóstico diferencial inclui doenças linfoproliferativas e tuberculose ganglionar. 
 
 **Fonte:** PROTOCOLO CLÍNICO E DIRETRIZES TERAPÊUTICAS PARA MANEJO DA INFECÇÃO PELO HIV EM ADULTOS.
-
-**Síndrome Retroviral Aguda (SRA)**
-
 
 **Vinculação** 
 >Processo que consiste no acolhimento, orientação, direcionamento e encaminhamento de uma pessoa recém-diagnosticada com HIV ao serviço de saúde para que ela realize as primeiras consultas e exames o mais brevemente possível e desenvolva autonomia para o cuidado contínuo. O desfecho principal para considerar uma PVHIV vinculada é a realização da 1ª consulta no serviço de atenção para o qual foi encaminhada e, de preferência, seu início de tratamento o mais rápido possível. 
