@@ -35,16 +35,68 @@
 
 **1.16 Teste Rápido**
 
+### 2. Módulo Doença
 
-**Doença Transmissível**
->É qualquer doença causada por um agente infeccioso específico ou seus produtos tóxicos, que se manifesta pela transmissão deste agente ou deseus produtos, de um reservatório a um hospedeiro suscetível, seja diretamentede uma pessoa ou animal infectado, ou indiretamente por meio de um hospedeirointermediário, de natureza vegetal ou animal, de um vetor ou do meio ambienteinanimado. 
+**2.1 Agente Biológico**
+
+**2.2 Agente Etiológico**
+
+**2.3 Agente Infeccioso**
+
+**2.4 Bactéria**
+
+**2.5 Característica**
+
+**2.6 Causa**
+
+**2.7 Comorbidade**
+
+**2.8 Doença**
+
+**2.9 Doença Infecciosa**
+
+**2.10 Doença Não Transmissível** 
+>>Doença causada por agentes não biológicos, como químicos (pesticidas, adtivos de alimentos, fármacos, industriais) e físicos (força mecânica, calor, luz, radiações, ruído).
 
 **Fonte:** Módulo de Princípios de Epidemiologia para o Controle de Enfermidades (MOPECE) (livro 2) 
 
-**Doença Não Transmissível**
->Doença causada por agentes não biológicos, como químicos (pesticidas, adtivos de alimentos, fármacos, industriais) e físicos (força mecânica, calor, luz, radiações, ruído).
+**2.11 Doença Oportunista**
 
-**Fonte:** Módulo de Princípios de Epidemiologia para o Controle de Enfermidades (MOPECE) (livro 2) 
+**2.12 Doença Transmissível**
+>>É qualquer doença causada por um agente infeccioso específico ou seus produtos tóxicos, que se manifesta pela transmissão deste agente ou deseus produtos, de um reservatório a um hospedeiro suscetível, seja diretamentede uma pessoa ou animal infectado, ou indiretamente por meio de um hospedeirointermediário, de natureza vegetal ou animal, de um vetor ou do meio ambiente inanimado. 
+
+**Fonte:** Módulo de Princípios de Epidemiologia para o Controle de Enfermidades (MOPECE) (livro 2)
+
+**2.13 Fase Sintomática**
+
+**2.14 Infecção por HIV**
+
+**2.15 Latência Clínica**
+
+**2.16 Modo de Transmissão**
+
+**2.17 Sinal**
+
+**2.18 Síndrome da Imunodeficiência Adquirida (AIDS)**
+
+**2.19 Síndrome Retroviral Aguda (SRA)**
+>>Os principais achados clínicos de SRA incluem febre, cefaleia, astenia, adenopatia, faringite, exantema e mialgia. A SRA pode cursar com febre alta, sudorese e linfadenomegalia, comprometendo principalmente as cadeias cervicais anterior e posterior, submandibular, occipital e axilar. Podem ocorrer, ainda, esplenomegalia, letargia, astenia, anorexia e depressão. Sintomas digestivos, como náuseas, vômitos, diarreia, perda de peso e úlceras orais podem estar presentes. 
+
+**Fonte:** PROTOCOLO CLÍNICO E DIRETRIZES TERAPÊUTICAS PARA MANEJO DA INFECÇÃO PELO HIV EM ADULTOS.
+
+**2.20 Sintoma**
+
+**2.21 Tansmissão Direta**
+
+**2.22 Transmissão Indireta**
+
+**2.23 Tuberculose**
+
+**2.24 Vírus**
+
+**2.25 Vírus da Imunodeficiência Humana (HIV)**
+
+
 
 **Infecção Aguda**
 >Ocorre nas primeiras semanas da infecção pelo HIV, quando o vírus está sendo replicado intensivamente nos tecidos linfoides. O indivíduo, nesse período, torna-se altamente infectante. 
@@ -57,9 +109,7 @@
 **Fonte:** PROTOCOLO CLÍNICO E DIRETRIZES TERAPÊUTICAS PARA MANEJO DA INFECÇÃO PELO HIV EM ADULTOS.
 
 **Síndrome Retroviral Aguda (SRA)**
->Os principais achados clínicos de SRA incluem febre, cefaleia, astenia, adenopatia, faringite, exantema e mialgia. A SRA pode cursar com febre alta, sudorese e linfadenomegalia, comprometendo principalmente as cadeias cervicais anterior e posterior, submandibular, occipital e axilar. Podem ocorrer, ainda, esplenomegalia, letargia, astenia, anorexia e depressão. Sintomas digestivos, como náuseas, vômitos, diarreia, perda de peso e úlceras orais podem estar presentes. 
 
-**Fonte:** PROTOCOLO CLÍNICO E DIRETRIZES TERAPÊUTICAS PARA MANEJO DA INFECÇÃO PELO HIV EM ADULTOS.
 
 **Vinculação** 
 >Processo que consiste no acolhimento, orientação, direcionamento e encaminhamento de uma pessoa recém-diagnosticada com HIV ao serviço de saúde para que ela realize as primeiras consultas e exames o mais brevemente possível e desenvolva autonomia para o cuidado contínuo. O desfecho principal para considerar uma PVHIV vinculada é a realização da 1ª consulta no serviço de atenção para o qual foi encaminhada e, de preferência, seu início de tratamento o mais rápido possível. 
