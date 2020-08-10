@@ -11,7 +11,7 @@
 **1.5 Atenção em Saúde**
 >>Tudo que envolve o cuidado com a saúde do cidadão, incluindo atenção básica e especializa, ações e serviços de promoção, prevenção, tratamento e reabilitação.
 
-**Fonte:** https://saude.gov.br/sistema-unico-de-saude
+>>**Fonte:** https://saude.gov.br/sistema-unico-de-saude
 
 **1.6 Atendimento**
 
@@ -58,14 +58,14 @@
 **2.10 Doença Não Transmissível** 
 >>Doença causada por agentes não biológicos, como químicos (pesticidas, adtivos de alimentos, fármacos, industriais) e físicos (força mecânica, calor, luz, radiações, ruído).
 
-**Fonte:** Módulo de Princípios de Epidemiologia para o Controle de Enfermidades (MOPECE) (livro 2) 
+>>**Fonte:** Módulo de Princípios de Epidemiologia para o Controle de Enfermidades (MOPECE) (livro 2) 
 
 **2.11 Doença Oportunista**
 
 **2.12 Doença Transmissível**
 >>É qualquer doença causada por um agente infeccioso específico ou seus produtos tóxicos, que se manifesta pela transmissão deste agente ou deseus produtos, de um reservatório a um hospedeiro suscetível, seja diretamentede uma pessoa ou animal infectado, ou indiretamente por meio de um hospedeirointermediário, de natureza vegetal ou animal, de um vetor ou do meio ambiente inanimado. 
 
-**Fonte:** Módulo de Princípios de Epidemiologia para o Controle de Enfermidades (MOPECE) (livro 2)
+>>**Fonte:** Módulo de Princípios de Epidemiologia para o Controle de Enfermidades (MOPECE) (livro 2)
 
 **2.13 Fase Sintomática**
 
@@ -82,7 +82,7 @@
 **2.19 Síndrome Retroviral Aguda (SRA)**
 >>Os principais achados clínicos de SRA incluem febre, cefaleia, astenia, adenopatia, faringite, exantema e mialgia. A SRA pode cursar com febre alta, sudorese e linfadenomegalia, comprometendo principalmente as cadeias cervicais anterior e posterior, submandibular, occipital e axilar. Podem ocorrer, ainda, esplenomegalia, letargia, astenia, anorexia e depressão. Sintomas digestivos, como náuseas, vômitos, diarreia, perda de peso e úlceras orais podem estar presentes. 
 
-**Fonte:** PROTOCOLO CLÍNICO E DIRETRIZES TERAPÊUTICAS PARA MANEJO DA INFECÇÃO PELO HIV EM ADULTOS.
+>>**Fonte:** PROTOCOLO CLÍNICO E DIRETRIZES TERAPÊUTICAS PARA MANEJO DA INFECÇÃO PELO HIV EM ADULTOS.
 
 **2.20 Sintoma**
 
