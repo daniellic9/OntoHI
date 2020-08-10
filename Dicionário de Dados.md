@@ -1,3 +1,41 @@
+### 1. Módulo Sistema de Saúde
+
+**1.1 Ação de Saúde**
+
+**1.2 Acolhimento**
+
+**1.3 Agendado**
+
+**1.4 Atenção Básica de Saúde**
+
+**1.5 Atenção em Saúde**
+>>Tudo que envolve o cuidado com a saúde do cidadão, incluindo atenção básica e especializa, ações e serviços de promoção, prevenção, tratamento e reabilitação.
+
+**Fonte:** https://saude.gov.br/sistema-unico-de-saude
+
+**1.6 Atendimento**
+
+**1.7 Atendimento Inicial**
+
+**1.8 Consulta**
+
+**1.9 Exame**
+
+**1.10 Nível Primário**
+
+**1.11 Nível Secundário**
+
+**1.12 Nível Terciário**
+
+**1.13 Rede de Atenção Específica para HIV**
+
+**1.14 Serviço de Saúde**
+
+**1.15 Sistema de Saúde**
+
+**1.16 Teste Rápido**
+
+
 **Doença Transmissível**
 >É qualquer doença causada por um agente infeccioso específico ou seus produtos tóxicos, que se manifesta pela transmissão deste agente ou deseus produtos, de um reservatório a um hospedeiro suscetível, seja diretamentede uma pessoa ou animal infectado, ou indiretamente por meio de um hospedeirointermediário, de natureza vegetal ou animal, de um vetor ou do meio ambienteinanimado. 
 
@@ -42,9 +80,3 @@
 >Alcance de uma qualidade de vida comparável à das pessoas que não possuem o HIV. 
 
 **Fonte:** PROTOCOLO CLÍNICO E DIRETRIZES TERAPÊUTICAS PARA MANEJO DA INFECÇÃO PELO HIV EM ADULTOS.
-
-**Atenção à saúde**
->Tudo que envolve o cuidado com a saúde do cidadão, incluindo atenção básica e especializa, ações e serviços de promoção, prevenção, tratamento e reabilitação.
-
-**Fonte:** https://saude.gov.br/sistema-unico-de-saude
-
