@@ -1,12 +1,18 @@
 ### 1. Módulo Sistema de Saúde
 
 **1.1 Ação de Saúde**
+>> Ações sanitárias integradas, inclusive com outros setores do governo e da sociedade, que busca o desenvolvimento de padrões saudáveis de: qualidade de vida, condições de trabalho, moradia, alimentação, educação, atividade física, lazer entre outros. **Sinônimo:** Promoção da Saúde.
+
+>>**Fonte:** https://saude.gov.br/sistema-unico-de-saude
 
 **1.2 Acolhimento**
 
 **1.3 Agendado**
 
 **1.4 Atenção Básica de Saúde**
+>> Atenção Básica (AB), como primeiro nível de atenção do Sistema Único de Saúde (SUS), caracteriza-se por um conjunto de ações no âmbito individual e coletivo, que abrange a promoção e proteção da saúde, a prevenção de agravos, o diagnóstico, o tratamento, a reabilitação e visa à manutenção da saúde.
+
+>>**Fonte:** Cadernos da Atenção Básica, nº21
 
 **1.5 Atenção em Saúde**
 >>Tudo que envolve o cuidado com a saúde do cidadão, incluindo atenção básica e especializa, ações e serviços de promoção, prevenção, tratamento e reabilitação.
@@ -32,6 +38,9 @@
 **1.14 Serviço de Saúde**
 
 **1.15 Sistema de Saúde**
+>>  Presta atenção integral, de qualidade e resolutiva, que atenda às reais necessidades da população, tendo em vista a atual situação epidemiológica e demográfica do País, que vem se dando de forma acelerada, com predominância das condições crônicas. **Sinônimo:**  Rede de Atenção à Saúde (RAS).
+
+>>**Fonte:** A Atenção Primária e as Redes de Atenção à Saúde
 
 **1.16 Teste Rápido**
 
