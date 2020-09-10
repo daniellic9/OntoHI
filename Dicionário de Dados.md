@@ -1,4 +1,4 @@
-### 1. Módulo Sistema de Saúde
+## 1. Módulo Sistema de Saúde
 
 **1.1 Ação de Saúde**
 >> Ações sanitárias integradas, inclusive com outros setores do governo e da sociedade, que busca o desenvolvimento de padrões saudáveis de: qualidade de vida, condições de trabalho, moradia, alimentação, educação, atividade física, lazer entre outros. **Sinônimo:** Promoção da Saúde.
@@ -44,7 +44,7 @@
 
 **1.16 Teste Rápido**
 
-### 2. Módulo Doença
+## 2. Módulo Doença
 
 **2.1 Agente Biológico**
 
@@ -81,6 +81,13 @@
 **2.14 Infecção por HIV**
 
 **2.15 Latência Clínica**
+>>Pode durar de alguns meses a alguns anos, e os sintomas clínicos são mínimos ou inexistentes. Os exames sorológicos para o HIV são reagentes e a contagem de linfócitos T CD4+ pode estar estável ou em declínio. Alguns pacientes podem apresentar uma linfoadenopatia generalizada persistente, “flutuante” e indolor.
+
+>>**Fonte:** Doenças infecciosas e parasitárias: guia de bolso 
+
+>>Na fase de latência clínica, o exame físico costuma ser normal, exceto pela linfadenopatia, que pode persistir após a infecção aguda. A presença de linfadenopatia generalizada persistente é frequente e seu diagnóstico diferencial inclui doenças linfoproliferativas e tuberculose ganglionar. 
+
+>>**Fonte:** PROTOCOLO CLÍNICO E DIRETRIZES TERAPÊUTICAS PARA MANEJO DA INFECÇÃO PELO HIV EM ADULTOS.
 
 **2.16 Modo de Transmissão**
 
@@ -91,7 +98,7 @@
 **2.19 Síndrome da Imunodeficiência Adquirida (AIDS)**
 
 **2.20 Síndrome Retroviral Aguda (SRA)**
->>Os principais achados clínicos de SRA incluem febre, cefaleia, astenia, adenopatia, faringite, exantema e mialgia. A SRA pode cursar com febre alta, sudorese e linfadenomegalia, comprometendo principalmente as cadeias cervicais anterior e posterior, submandibular, occipital e axilar. Podem ocorrer, ainda, esplenomegalia, letargia, astenia, anorexia e depressão. Sintomas digestivos, como náuseas, vômitos, diarreia, perda de peso e úlceras orais podem estar presentes. 
+>>Ocorre nas primeiras semanas da infecção pelo HIV, quando o vírus está sendo replicado intensivamente nos tecidos linfoides. O indivíduo, nesse período, torna-se altamente infectante. Os principais achados clínicos de SRA incluem febre, cefaleia, astenia, adenopatia, faringite, exantema e mialgia. A SRA pode cursar com febre alta, sudorese e linfadenomegalia, comprometendo principalmente as cadeias cervicais anterior e posterior, submandibular, occipital e axilar. Podem ocorrer, ainda, esplenomegalia, letargia, astenia, anorexia e depressão. Sintomas digestivos, como náuseas, vômitos, diarreia, perda de peso e úlceras orais podem estar presentes. 
 
 >>**Fonte:** PROTOCOLO CLÍNICO E DIRETRIZES TERAPÊUTICAS PARA MANEJO DA INFECÇÃO PELO HIV EM ADULTOS.
 
@@ -107,7 +114,7 @@
 
 **2.26 Vírus da Imunodeficiência Humana (HIV)**
 
-### 3. Módulo Pessoa Vulnerável ao HIV
+## 3. Módulo Pessoa Vulnerável ao HIV
 
 **3.1 Acidente com Obejto Perfurocortante Contaminado**
 
@@ -150,32 +157,26 @@
 **3.20 Vulnerabilidade**
 
 
+
 **Infecção Aguda**
->Ocorre nas primeiras semanas da infecção pelo HIV, quando o vírus está sendo replicado intensivamente nos tecidos linfoides. O indivíduo, nesse período, torna-se altamente infectante. 
 
-**Fonte:** PROTOCOLO CLÍNICO E DIRETRIZES TERAPÊUTICAS PARA MANEJO DA INFECÇÃO PELO HIV EM ADULTOS.
-
-**Latência Clínica**
->Na fase de latência clínica, o exame físico costuma ser normal, exceto pela linfadenopatia, que pode persistir após a infecção aguda. A presença de linfadenopatia generalizada persistente é frequente e seu diagnóstico diferencial inclui doenças linfoproliferativas e tuberculose ganglionar. 
-
-**Fonte:** PROTOCOLO CLÍNICO E DIRETRIZES TERAPÊUTICAS PARA MANEJO DA INFECÇÃO PELO HIV EM ADULTOS.
 
 **Vinculação** 
->Processo que consiste no acolhimento, orientação, direcionamento e encaminhamento de uma pessoa recém-diagnosticada com HIV ao serviço de saúde para que ela realize as primeiras consultas e exames o mais brevemente possível e desenvolva autonomia para o cuidado contínuo. O desfecho principal para considerar uma PVHIV vinculada é a realização da 1ª consulta no serviço de atenção para o qual foi encaminhada e, de preferência, seu início de tratamento o mais rápido possível. 
+>>Processo que consiste no acolhimento, orientação, direcionamento e encaminhamento de uma pessoa recém-diagnosticada com HIV ao serviço de saúde para que ela realize as primeiras consultas e exames o mais brevemente possível e desenvolva autonomia para o cuidado contínuo. O desfecho principal para considerar uma PVHIV vinculada é a realização da 1ª consulta no serviço de atenção para o qual foi encaminhada e, de preferência, seu início de tratamento o mais rápido possível. 
 
-**Fonte:** PROTOCOLO CLÍNICO E DIRETRIZES TERAPÊUTICAS PARA MANEJO DA INFECÇÃO PELO HIV EM ADULTOS.
+>>**Fonte:** PROTOCOLO CLÍNICO E DIRETRIZES TERAPÊUTICAS PARA MANEJO DA INFECÇÃO PELO HIV EM ADULTOS.
 
 **Retenção**
->Processo que consiste no acompanhamento clínico regular e contínuo da pessoa que vive com HIV já vinculada ao serviço de saúde, garantindo que ela compareça às consultas, faça exames regularmente e, se estiver em terapia, realize também o seguimento do seu tratamento, respeitando a sua autonomia. Um paciente retido no serviço é aquele que realiza exames e/ou retira os medicamentos antirretrovirais sistematicamente, sem faltar às consultas. 
+>>Processo que consiste no acompanhamento clínico regular e contínuo da pessoa que vive com HIV já vinculada ao serviço de saúde, garantindo que ela compareça às consultas, faça exames regularmente e, se estiver em terapia, realize também o seguimento do seu tratamento, respeitando a sua autonomia. Um paciente retido no serviço é aquele que realiza exames e/ou retira os medicamentos antirretrovirais sistematicamente, sem faltar às consultas. 
 
-**Fonte:** PROTOCOLO CLÍNICO E DIRETRIZES TERAPÊUTICAS PARA MANEJO DA INFECÇÃO PELO HIV EM ADULTOS.
+>>**Fonte:** PROTOCOLO CLÍNICO E DIRETRIZES TERAPÊUTICAS PARA MANEJO DA INFECÇÃO PELO HIV EM ADULTOS.
 
 **Adesão ao Tratamento**
->Consiste na utilização ideal dos medicamentos ARV da forma mais próxima possível àquela prescrita pela equipe de saúde, respeitando as doses, horários e outras indicações. A adesão também é um processo colaborativo que facilita a aceitação e a integração de determinado esquema terapêutico no cotidiano das pessoas em tratamento, pressupondo sua participação nas decisões sobre a terapia. 
+>>Consiste na utilização ideal dos medicamentos ARV da forma mais próxima possível àquela prescrita pela equipe de saúde, respeitando as doses, horários e outras indicações. A adesão também é um processo colaborativo que facilita a aceitação e a integração de determinado esquema terapêutico no cotidiano das pessoas em tratamento, pressupondo sua participação nas decisões sobre a terapia. 
 
-**Fonte:** PROTOCOLO CLÍNICO E DIRETRIZES TERAPÊUTICAS PARA MANEJO DA INFECÇÃO PELO HIV EM ADULTOS.
+>>**Fonte:** PROTOCOLO CLÍNICO E DIRETRIZES TERAPÊUTICAS PARA MANEJO DA INFECÇÃO PELO HIV EM ADULTOS.
 
 **Supressão da Carga Viral**
->Alcance de uma qualidade de vida comparável à das pessoas que não possuem o HIV. 
+>>Alcance de uma qualidade de vida comparável à das pessoas que não possuem o HIV. 
 
-**Fonte:** PROTOCOLO CLÍNICO E DIRETRIZES TERAPÊUTICAS PARA MANEJO DA INFECÇÃO PELO HIV EM ADULTOS.
+>>**Fonte:** PROTOCOLO CLÍNICO E DIRETRIZES TERAPÊUTICAS PARA MANEJO DA INFECÇÃO PELO HIV EM ADULTOS.
