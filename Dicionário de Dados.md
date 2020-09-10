@@ -77,6 +77,10 @@
 >>**Fonte:** Módulo de Princípios de Epidemiologia para o Controle de Enfermidades (MOPECE) (livro 2)
 
 **2.13 Fase Sintomática**
+>>Nesta fase, o portador da infecção pelo HIV pode apresentar sinais e sintomas inespecíficos de intensidade variável, além de processos oportunistas de menor gravidade. Há uma
+elevação da carga viral e a contagem de linfócitos T CD4+ já pode se encontrar abaixo de 500cel/mm³.
+
+>>**Fonte:** Doenças infecciosas e parasitárias: guia de bolso 
 
 **2.14 Infecção por HIV**
 
@@ -158,7 +162,7 @@
 
 
 
-**Infecção Aguda**
+
 
 
 **Vinculação** 
