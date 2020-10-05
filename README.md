@@ -12,4 +12,5 @@ Segue a sequência dos módulos:
 - Pessoa Vulnerável ao HIV
 - Diagnóstico
 
-//![Doença]()
+## Diagrama de Doença
+![Doença](https://github.com/daniellic9/OntoHI/blob/master/Imagens%20OntoHI/Doen%C3%A7a.JPG)
