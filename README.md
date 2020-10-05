@@ -16,4 +16,4 @@ Segue a sequência dos módulos:
 ![Doença](https://github.com/daniellic9/OntoHI/blob/master/Imagens%20OntoHI/Doen%C3%A7a.JPG)
 
 ## Pessoa Vulnerável ao HIV
-![Pessoa](https://github.com/daniellic9/OntoHI/blob/master/Imagens%20OntoHI/Doen%C3%A7a.JPG)
+![Pessoa](https://github.com/daniellic9/OntoHI/blob/master/Imagens%20OntoHI/Pessoa%20Vulner%C3%A1vel%20ao%20HIV.JPG)
