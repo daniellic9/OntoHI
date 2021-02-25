@@ -1,48 +1,84 @@
 ## 1. Módulo Sistema de Saúde
 
 **1.1 Ação de Saúde**
->> Ações sanitárias integradas, inclusive com outros setores do governo e da sociedade, que busca o desenvolvimento de padrões saudáveis de: qualidade de vida, condições de trabalho, moradia, alimentação, educação, atividade física, lazer entre outros. **Sinônimo:** Promoção da Saúde.
-
->>**Fonte:** https://saude.gov.br/sistema-unico-de-saude
+> Ações sanitárias integradas, inclusive com outros setores do governo e da sociedade, que busca o desenvolvimento de padrões saudáveis de: qualidade de vida, condições de trabalho, moradia, alimentação, educação, atividade física, lazer entre outros. **Sinônimo:** Promoção da Saúde.
+>
+>**Fonte:** https://saude.gov.br/sistema-unico-de-saude
 
 **1.2 Acolhimento**
+> É um dispositivo que está inserido na Política de Humanização do Ministério da Saúde (HumanizaSUS), e que vai além da recepção ao usuário, pois considera toda a situação da atenção a partir da entrada deste no sistema. Acolher significa humanizar o atendimento.
+>
+>**Fonte:** Cadernos de Saúde Pública
 
 **1.3 Agendado**
+> Compromisso ou evento marcado em data e horário predefinidos.
+> 
+>**Fonte:** Dicionário Online
 
 **1.4 Atenção Básica de Saúde**
->> Atenção Básica (AB), como primeiro nível de atenção do Sistema Único de Saúde (SUS), caracteriza-se por um conjunto de ações no âmbito individual e coletivo, que abrange a promoção e proteção da saúde, a prevenção de agravos, o diagnóstico, o tratamento, a reabilitação e visa à manutenção da saúde.
-
->>**Fonte:** Cadernos da Atenção Básica, nº21
+> Atenção Básica (AB), como primeiro nível de atenção do Sistema Único de Saúde (SUS), caracteriza-se por um conjunto de ações no âmbito individual e coletivo, que abrange a promoção e proteção da saúde, a prevenção de agravos, o diagnóstico, o tratamento, a reabilitação e visa à manutenção da saúde.
+>
+>**Fonte:** Cadernos da Atenção Básica, nº21
 
 **1.5 Atenção em Saúde**
->>Tudo que envolve o cuidado com a saúde do cidadão, incluindo atenção básica e especializa, ações e serviços de promoção, prevenção, tratamento e reabilitação.
-
->>**Fonte:** https://saude.gov.br/sistema-unico-de-saude
+> Tudo que envolve o cuidado com a saúde do cidadão, incluindo atenção básica e especializa, ações e serviços de promoção, prevenção, tratamento e reabilitação.
+>
+>**Fonte:** https://saude.gov.br/sistema-unico-de-saude
 
 **1.6 Atendimento**
+> O atendimento pelo Sistema Único de Saúde (SUS), direito garantido a qualquer cidadão brasileiro, se dá a partir de um modelo baseado na hierarquização das ações e serviços de saúde por níveis de complexidade.
+>
+>**Fonte:** pensesus.fiocruz.br
 
 **1.7 Atendimento Inicial**
+> Primeiro atendimento do paciente que chega à rede de saúde.
+>
+>**Fonte:** Cadernos da Atenção Básica, nº21
 
 **1.8 Consulta**
+> Consulta médica compreende a anamnese, o exame físico e a elaboração de hipóteses ou conclusões diagnósticas, solicitação de exames complementares, quando necessários, e prescrição terapêutica como ato médico completo e que pode ser concluído ou não em um único momento.
+>
+>**Fonte:** crmpr.org.br
 
 **1.9 Exame**
+> Um objeto de análise (sangue, urina, fezes e outros) é coletado de nós e investigado por profissionais capacitados. 
+> 
+>**Fonte:** https://upis.br/
 
 **1.10 Nível Primário**
+> Esse nível é o contato inicial para prevenção e redução de risco de doenças. Neste nível, não há tratamentos complexos ou combate a doenças. Ele trata do contato inicial para promoção de saúde.
+> 
+>**Fonte:** https://proxis.com.br/
 
 **1.11 Nível Secundário**
+> A complexidade do atendimento neste nível é maior e o paciente já entra em contato com profissionais da saúde mais especializados, como cardiologista e oftalmologista. São realizados também exames mais detalhados para um diagnóstico preciso e tratamento adequado.
+> 
+>**Fonte:** https://proxis.com.br/
 
 **1.12 Nível Terciário**
+> É um atendimento altamente especializado para pacientes que podem estar internados e precisam de cirurgias e exames mais invasivos.
+> 
+>**Fonte:** https://proxis.com.br/
 
 **1.13 Rede de Atenção Específica para HIV**
+> Serviços de prevenção aberto ao atendimento da população geral, com foco no cuidado prioritário de pessoas mais expostas à infecção pelo HIV, outras DST e às hepatites virais.
+> 
+>**Fonte:** https://agenciaaids.com.br/]
 
 **1.14 Serviço de Saúde**
+> São as prestações que prestam assistência sanitária. Pode-se dizer que a articulação destes serviços constitui um sistema de atenção orientado para a manutenção, a restauração e a promoção da saúde das pessoas.
+> 
+>**Fonte:** https://conceito.de/servicos-de-saude
 
 **1.15 Sistema de Saúde**
->>  Presta atenção integral, de qualidade e resolutiva, que atenda às reais necessidades da população, tendo em vista a atual situação epidemiológica e demográfica do País, que vem se dando de forma acelerada, com predominância das condições crônicas. **Sinônimo:**  Rede de Atenção à Saúde (RAS).
-
->>**Fonte:** A Atenção Primária e as Redes de Atenção à Saúde
+>  Presta atenção integral, de qualidade e resolutiva, que atenda às reais necessidades da população, tendo em vista a atual situação epidemiológica e demográfica do País, que vem se dando de forma acelerada, com predominância das condições crônicas. **Sinônimo:**  Rede de Atenção à Saúde (RAS).
+>
+>**Fonte:** A Atenção Primária e as Redes de Atenção à Saúde
 
 **1.16 Teste Rápido**
+>Um teste de diagnóstico rápido é um teste de diagnóstico médico rápido e fácil de executar. Os testes rápidos são adequados para triagem médica preliminar ou de emergência e para uso em instalações médicas com recursos limitados.
+>
+>**Fonte:** Organização Mundial de Saúde
 
 ## 2. Módulo Doença
 
