@@ -83,57 +83,94 @@
 ## 2. Módulo Doença
 
 **2.1 Agente Biológico**
+> Os agentes biológicos são organismos vivos capazes de causar uma infecção ou doença no ser humano e nos animais. As espécies que ocasionam doença humana são denominadas patogênicas.
+> 
+>**Fonte:** Módulo de Princípios de Epidemiologia para o Controle de Enfermidades (MOPECE)
 
 **2.2 Agente Etiológico**
+> Fator cuja presença ou ausência é indispensável ao início ou manutenção de um processo mórbido.
+> 
+>**Fonte:** Terminologia Básica em Saúde
 
 **2.3 Agente Infeccioso**
+> São considerados agentes infecciosos microrganismos responsáveis por causar doenças infecciosas com potencial de transmissão para outros seres vivos, da mesma espécie ou não.
+> 
+>**Fonte:** https://www.inca.gov.br/
 
 **2.4 Bactéria**
+> Microrganismo unicelular procariota, de vida livre ou parasita, que ocorre sob várias formas (cocos, bacilos, espirilos).
+> 
+>**Fonte:** Dicionário Online
 
 **2.5 Característica**
+> É uma propriedade ou qualidade distintiva. Aquilo que caracteriza; particularidade ou peculiaridade de um ser ou de uma espécie.
+> 
+>**Fonte:** Dicionário Online
 
 **2.6 Causa**
+> O que faz com que algo exista ou aconteça; origem, motivo, razão.
+> 
+>**Fonte:** Dicionário Online
 
 **2.7 Comorbidade**
+> Associação de duas ou de várias doenças que aparecem de modo simultâneo num mesmo paciente.
+> 
+>**Fonte:** Dicionário Online
 
 **2.8 Doença**
+> Alteração da saúde que se manifesta por sintomas, possíveis de ser identificados, ou não.
+> 
+>**Fonte:** Dicionário Online
 
 **2.9 Doença Infecciosa**
+> Doença resultante de uma infecção causada por agente infeccioso, contraída diretamente de um indivíduo infestado ou indiretamente através de um hospedeiro intermediário.
+> 
+>**Fonte:** Terminologia Básica em Saúde
 
 **2.10 Doença Não Transmissível** 
->>Doença causada por agentes não biológicos, como químicos (pesticidas, adtivos de alimentos, fármacos, industriais) e físicos (força mecânica, calor, luz, radiações, ruído).
-
->>**Fonte:** Módulo de Princípios de Epidemiologia para o Controle de Enfermidades (MOPECE) (livro 2) 
+> É qualquer doença causada por um agente infeccioso específico ou seus produtos tóxicos, que se manifesta pela transmissão deste agente ou de seus produtos, de um reservatório a um hospedeiro suscetível, seja diretamente de uma pessoa ou animal infectado, ou indiretamente por meio de um hospedeiro intermediário, de natureza vegetal ou animal, de um vetor ou do meio ambiente
+inanimado.
+>
+>**Fonte:** Módulo de Princípios de Epidemiologia para o Controle de Enfermidades (MOPECE) (livro 2) 
 
 **2.11 Doença Oportunista**
+> Infecções que tiram vantagem da fraqueza das defesas imunitárias do paciente.
+> 
+>**Fonte:** https://soropositivo.org/
 
 **2.12 Doença Transmissível**
->>É qualquer doença causada por um agente infeccioso específico ou seus produtos tóxicos, que se manifesta pela transmissão deste agente ou deseus produtos, de um reservatório a um hospedeiro suscetível, seja diretamentede uma pessoa ou animal infectado, ou indiretamente por meio de um hospedeirointermediário, de natureza vegetal ou animal, de um vetor ou do meio ambiente inanimado. 
-
->>**Fonte:** Módulo de Princípios de Epidemiologia para o Controle de Enfermidades (MOPECE) (livro 2)
+>Doença que poder ser transmitida de uma pessoa  ou  animal  infectado  ou  de   um  reservatório,  para  um  hospedeiro.
+>
+>**Fonte:** Terminologia Básica em Saúde
 
 **2.13 Fase Sintomática**
->>Nesta fase, o portador da infecção pelo HIV pode apresentar sinais e sintomas inespecíficos de intensidade variável, além de processos oportunistas de menor gravidade. Há uma
-elevação da carga viral e a contagem de linfócitos T CD4+ já pode se encontrar abaixo de 500cel/mm³.
-
->>**Fonte:** Doenças infecciosas e parasitárias: guia de bolso 
+> Nesta fase, o portador da infecção pelo HIV pode apresentar sinais e sintomas inespecíficos de intensidade variável, além de processos oportunistas de menor gravidade. Há umaelevação da carga viral e a contagem de linfócitos T CD4+ já pode se encontrar abaixo de 500cel/mm³.
+>
+>**Fonte:** Doenças infecciosas e parasitárias: guia de bolso 
 
 **2.14 Infecção por HIV**
+> O vírus do HIV é transmitido através de relações sexuais desprotegidas, compartilhamento de seringas ou materiais perfurocortantes contaminados, transfusão de sangue contaminado, bem como de mãe para filho, durante a gravidez, parto e amamentação.
+> 
+>**Fonte:** Epidemiologia Básica
 
 **2.15 Latência Clínica**
->>Pode durar de alguns meses a alguns anos, e os sintomas clínicos são mínimos ou inexistentes. Os exames sorológicos para o HIV são reagentes e a contagem de linfócitos T CD4+ pode estar estável ou em declínio. Alguns pacientes podem apresentar uma linfoadenopatia generalizada persistente, “flutuante” e indolor.
+> Pode durar de alguns meses a alguns anos, e os sintomas clínicos são mínimos ou inexistentes. Os exames sorológicos para o HIV são reagentes e a contagem de linfócitos T CD4+ pode estar estável ou em declínio. Alguns pacientes podem apresentar uma linfoadenopatia generalizada persistente, “flutuante” e indolor.
+>
+>**Fonte:** Doenças infecciosas e parasitárias: guia de bolso 
 
->>**Fonte:** Doenças infecciosas e parasitárias: guia de bolso 
-
->>Na fase de latência clínica, o exame físico costuma ser normal, exceto pela linfadenopatia, que pode persistir após a infecção aguda. A presença de linfadenopatia generalizada persistente é frequente e seu diagnóstico diferencial inclui doenças linfoproliferativas e tuberculose ganglionar. 
-
->>**Fonte:** PROTOCOLO CLÍNICO E DIRETRIZES TERAPÊUTICAS PARA MANEJO DA INFECÇÃO PELO HIV EM ADULTOS.
+> Na fase de latência clínica, o exame físico costuma ser normal, exceto pela linfadenopatia, que pode persistir após a infecção aguda. A presença de linfadenopatia generalizada persistente é frequente e seu diagnóstico diferencial inclui doenças linfoproliferativas e tuberculose ganglionar. 
+>
+>**Fonte:** PROTOCOLO CLÍNICO E DIRETRIZES TERAPÊUTICAS PARA MANEJO DA INFECÇÃO PELO HIV EM ADULTOS.
 
 **2.16 Modo de Transmissão**
-
-**2.17 Problema de Saúde**
+> Diferentes meios em que a doença pode ser transmitida.
+> 
+>**Fonte:** Módulo de Princípios de Epidemiologia para o Controle de Enfermidades (MOPECE)
 
 **2.18 Sinal**
+> Sinal é aquilo que pode ser percebido por outra pessoa sem o relato ou comunicação do paciente.
+> 
+>**Fonte:** Dicionário Online
 
 **2.19 Síndrome da Imunodeficiência Adquirida (AIDS)**
 
@@ -143,6 +180,7 @@ elevação da carga viral e a contagem de linfócitos T CD4+ já pode se encontr
 >>**Fonte:** PROTOCOLO CLÍNICO E DIRETRIZES TERAPÊUTICAS PARA MANEJO DA INFECÇÃO PELO HIV EM ADULTOS.
 
 **2.21 Sintoma**
+>
 
 **2.22 Tansmissão Direta**
 
