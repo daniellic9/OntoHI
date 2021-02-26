@@ -216,44 +216,104 @@ desde que obedecidos os princípios básicos da terapia medicamentosa e que haja
 ## 3. Módulo Pessoa Vulnerável ao HIV
 
 **3.1 Acidente com Obejto Perfurocortante Contaminado**
+> Acidentes que envolvem materiais biológicos contaminado podendo levar à infecção.
+> 
+>**Fonte:** https://sa.sol-m.com/
 
 **3.2 Alta**
+> Referente a Vulnerailidade significa de nível elevado.
+> 
+>**Fonte:** Dicionário Online
 
 **3.3 Ambiente Social**
+> O ambiente social de um sujeito é composto pelas suas condições de vida e de trabalho, os estudos que cursou, o seu nível de rendimentos e a comunidade a que pertence e em que está inserido.
+> 
+>**Fonte:** Dicionário Online
 
 **3.4 Aspecto Legal**
+> Legal é aquilo que é dentro da lei, no sentido formal.
+> 
+>**Fonte:** Dicionário Online
 
 **3.5 Baixa**
+> Referente a Vulnerailidade significa de nível baixo.
+> 
+>**Fonte:** Dicionário Online
 
-**3.6 Compartilhamento d Seringa Contaminada**
+**3.6 Compartilhamento de Seringa Contaminada**
+> O uso de drogas injetáveis e o compartilhamento de seringas é uma das principais formas de transmissão do vírus HIV. Durante o contato do sangue soropositivo, a seringa é contaminada e a reutilização da seringa por terceiros é também uma forma de contagio do vírus, já que pequenas quantidades de sangue ficam na agulha ou seringa após o uso.
+> 
+>**Fonte:** http://giv.org.br/
 
 **3.7 Comportamento**
+> Modo de se comportar, de proceder, de agir diante de algo ou alguém.
+> 
+>**Fonte:** Dicionário Online
 
 **3.8 Comportamento de Risco**
+> Práticas adotadas que aumentam o risco de contrair uma doença sexualmente transmissível.
+> 
+>**Fonte:** www.spasaude.org.br/
 
 **3.9 Extrínseco**
+> Que não faz parte do conteúdo essencial de alguma coisa; que se encontra no exterior de algo ou de alguém.
+> 
+>**Fonte:** Dicionário Online
 
 **3.10 Fator**
+> Elementos que contribuem ou influenciam na obtenção de um resultado; condições, causas.
+> 
+>**Fonte:** Dicionário Online
 
 **3.11 Intrínseco**
+> Que faz parte da essência de alguém; inerente.
+> 
+>**Fonte:** Dicionário Online
 
 **3.12 Homem**
+> Pessoa do sexo masculino.
+> 
+>**Fonte:** Dicionário Online
 
 **3.13 Mulher**
+> Ser humano do sexo feminino.
+> 
+>**Fonte:** Dicionário Online
 
 **3.14 Pessoa**
+> Indivíduo considerado por si mesmo; ser humano, criatura.
+> 
+>**Fonte:** Dicionário Online
 
 **3.15 Pessoa Vulnerável**
+> Algo ou alguém que está suscetível a ser ferido, ofendido ou tocado.
+> 
+>**Fonte:** Dicionário Online
 
 **3.16 PVHIV**
+> Sigla utilizada pelo Ministério da Saúde para Pessoa Vivendo com HIV.
+> 
+>**Fonte:** Conselho Nacional de Saúde
 
 **3.17 Relação Sexual**
+> Biologicamente esse ato tem a finalidade de reprodução da espécie, mas frequentemente é usado como forma de propiciar intimidade e prazer físico e emocional aos parceiros
+> 
+>**Fonte:** Dicionário Online
 
 **3.18 Relação Sexual Desprotegida**
+> O não uso de preservativo na relação sexual. Quem tem relação sexual desprotegida pode contrair uma IST. Não importa idade, estado civil, classe social, identidade de gênero, orientação sexual, credo ou religião.
+> 
+>**Fonte:** http://www.aids.gov.br/
 
 **3.19 Relação Sexual Protegida**
+> O uso da camisinha (masculina ou feminina) em todas as relações sexuais (orais, anais e vaginais) é o método mais eficaz para evitar a transmissão das IST, do HIV/aids e das hepatites virais B e C.
+> 
+>**Fonte:** http://www.aids.gov.br/
 
 **3.20 Vulnerabilidade**
+> A vulnerabilidade implica uma situação de risco; significa que pessoas e/ou comunidades estão numa situação de fragilidade - seja por motivos sociais, económicos, ambientais ou outros - e por isso estão mais vulneráveis ao que possa advir dessa exposição.
+> 
+>**Fonte:** Dicionário Online
 
 
 
