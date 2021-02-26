@@ -173,24 +173,45 @@ inanimado.
 >**Fonte:** Dicionário Online
 
 **2.19 Síndrome da Imunodeficiência Adquirida (AIDS)**
+> Fase mais avançada da infecção pelo vírus HIV com contagem de LT-CD4+ abaixo de 200 céls/mm³
+> 
+>**Fonte:** http://www.aids.gov.br/
 
 **2.20 Síndrome Retroviral Aguda (SRA)**
->>Ocorre nas primeiras semanas da infecção pelo HIV, quando o vírus está sendo replicado intensivamente nos tecidos linfoides. O indivíduo, nesse período, torna-se altamente infectante. Os principais achados clínicos de SRA incluem febre, cefaleia, astenia, adenopatia, faringite, exantema e mialgia. A SRA pode cursar com febre alta, sudorese e linfadenomegalia, comprometendo principalmente as cadeias cervicais anterior e posterior, submandibular, occipital e axilar. Podem ocorrer, ainda, esplenomegalia, letargia, astenia, anorexia e depressão. Sintomas digestivos, como náuseas, vômitos, diarreia, perda de peso e úlceras orais podem estar presentes. 
-
->>**Fonte:** PROTOCOLO CLÍNICO E DIRETRIZES TERAPÊUTICAS PARA MANEJO DA INFECÇÃO PELO HIV EM ADULTOS.
+> Ocorre nas primeiras semanas da infecção pelo HIV, quando o vírus está sendo replicado intensivamente nos tecidos linfoides. O indivíduo, nesse período, torna-se altamente infectante. Os principais achados clínicos de SRA incluem febre, cefaleia, astenia, adenopatia, faringite, exantema e mialgia. A SRA pode cursar com febre alta, sudorese e linfadenomegalia, comprometendo principalmente as cadeias cervicais anterior e posterior, submandibular, occipital e axilar. Podem ocorrer, ainda, esplenomegalia, letargia, astenia, anorexia e depressão. Sintomas digestivos, como náuseas, vômitos, diarreia, perda de peso e úlceras orais podem estar presentes. 
+>
+>**Fonte:** PROTOCOLO CLÍNICO E DIRETRIZES TERAPÊUTICAS PARA MANEJO DA INFECÇÃO PELO HIV EM ADULTOS.
 
 **2.21 Sintoma**
->
+> Sintoma é a queixa relatada pelo paciente, mas que só ele consegue perceber. Sintomas são subjetivos, sujeitos à interpretação do próprio paciente.
+> 
+>**Fonte:** Dicionário Online
 
 **2.22 Tansmissão Direta**
+> É a transferência direta do agente infeccioso por uma porta de entrada para que se possa efetuar a infecção. É denominada também transmissão de pessoa a pessoa.
+> 
+>**Fonte:** Módulo de Princípios de Epidemiologia para o Controle de Enfermidades (MOPECE)
 
 **2.23 Transmissão Indireta**
+> É a transmissão do agente infeccioso através de vetores, partículas aéreas ou objetos contaminados.
+> 
+>**Fonte:** Módulo de Princípios de Epidemiologia para o Controle de Enfermidades (MOPECE)
 
 **2.24 Tuberculose**
+> A tuberculose é uma doença curável em praticamente todos os casos, em pessoas com bacilos sensíveis aos medicamentos antituberculose (antiTB), 
+desde que obedecidos os princípios básicos da terapia medicamentosa e que haja a adequada operacionalização do tratamento.
+>
+>**Fonte:** Manual de Recomendações para o Controle da Tuberculose no Brasil
 
 **2.25 Vírus**
+>Parasitas intracelulares obrigatórios, o que significa que são completamente dependentes de outras células para se reproduzir. Não possuem metabolismo próprio independente do hospedeiro.
+>
+>**Fonte:** https://www.ufrgs.br/
 
 **2.26 Vírus da Imunodeficiência Humana (HIV)**
+> Vírus da imunodeficiência humana. Causador da aids, ataca o sistema imunológico, responsável por defender o organismo de doenças.
+> 
+>**Fonte:** aids.gov.br
 
 ## 3. Módulo Pessoa Vulnerável ao HIV
 
